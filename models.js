@@ -13,4 +13,4 @@ required: true
 // Modelo de producto
 const Product = mongoose.model(&#39;Product&#39;, productSchema);
 module.exports = Product;
-Crear el archivo server.js
+
